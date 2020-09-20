@@ -1,0 +1,13 @@
+D:\P.VSBase\Complex number\Complex number\bin\Debug\Complex number.exe.config
+D:\P.VSBase\Complex number\Complex number\bin\Debug\Complex number.exe
+D:\P.VSBase\Complex number\Complex number\bin\Debug\Complex number.pdb
+D:\P.VSBase\Complex number\Complex number\obj\Debug\Complex number.csprojAssemblyReference.cache
+D:\P.VSBase\Complex number\Complex number\obj\Debug\Complex_number.Form1.resources
+D:\P.VSBase\Complex number\Complex number\obj\Debug\Complex_number.Properties.Resources.resources
+D:\P.VSBase\Complex number\Complex number\obj\Debug\Complex number.csproj.GenerateResource.cache
+D:\P.VSBase\Complex number\Complex number\obj\Debug\Complex number.csproj.CoreCompileInputs.cache
+D:\P.VSBase\Complex number\Complex number\obj\Debug\Complex number.exe
+D:\P.VSBase\Complex number\Complex number\obj\Debug\Complex number.pdb
+D:\P.VSBase\Complex number\Complex number\bin\Debug\ClassLibraryCN.dll
+D:\P.VSBase\Complex number\Complex number\bin\Debug\ClassLibraryCN.pdb
+D:\P.VSBase\Complex number\Complex number\obj\Debug\Complex number.csproj.CopyComplete

@@ -1,0 +1,9 @@
+D:\P.VSBase\Complex number\ClassLibraryCN\bin\Debug\netstandard2.0\ClassLibraryCN.deps.json
+D:\P.VSBase\Complex number\ClassLibraryCN\bin\Debug\netstandard2.0\ClassLibraryCN.dll
+D:\P.VSBase\Complex number\ClassLibraryCN\bin\Debug\netstandard2.0\ClassLibraryCN.pdb
+D:\P.VSBase\Complex number\ClassLibraryCN\obj\Debug\netstandard2.0\ClassLibraryCN.csprojAssemblyReference.cache
+D:\P.VSBase\Complex number\ClassLibraryCN\obj\Debug\netstandard2.0\ClassLibraryCN.AssemblyInfoInputs.cache
+D:\P.VSBase\Complex number\ClassLibraryCN\obj\Debug\netstandard2.0\ClassLibraryCN.AssemblyInfo.cs
+D:\P.VSBase\Complex number\ClassLibraryCN\obj\Debug\netstandard2.0\ClassLibraryCN.csproj.CoreCompileInputs.cache
+D:\P.VSBase\Complex number\ClassLibraryCN\obj\Debug\netstandard2.0\ClassLibraryCN.dll
+D:\P.VSBase\Complex number\ClassLibraryCN\obj\Debug\netstandard2.0\ClassLibraryCN.pdb
