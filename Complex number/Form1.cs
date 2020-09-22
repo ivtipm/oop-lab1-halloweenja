@@ -33,6 +33,10 @@ namespace Complex_number
             imegineryField1.Text = "0";
             imegineryField2.Text = "0";
 
+            this.buttonStart.Location = new System.Drawing.Point(77, 95);
+            this.labelAnswer.Location = new System.Drawing.Point(208, 95);
+            this.ClientSize = new System.Drawing.Size(340, 135);
+
         }
 
         private void comboBox_SelectedIndexChanged(object sender, EventArgs e)
@@ -42,12 +46,18 @@ namespace Complex_number
                 realField2.Visible = true;
                 imegineryField2.Visible = true;
                 pictureSN.Visible = true;
+                this.labelAnswer.Location = new System.Drawing.Point(208, 136);
+                this.buttonStart.Location = new System.Drawing.Point(77, 136);
+                this.ClientSize = new System.Drawing.Size(340, 175);
             }
             else
             {
                 realField2.Visible = false;
                 imegineryField2.Visible = false;
                 pictureSN.Visible = false;
+                this.buttonStart.Location = new System.Drawing.Point(77, 95);
+                this.labelAnswer.Location = new System.Drawing.Point(208, 95);
+                this.ClientSize = new System.Drawing.Size(340, 135);
             }
         }
 
@@ -155,5 +165,6 @@ namespace Complex_number
             if (imegineryField2.Text == "")
                 imegineryField2.Text = "0";
         }
+
     }
 }

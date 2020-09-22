@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hj4uN0XzWt4OUM7R9ts3tQ0RGbM7obxbXCFlIPgQ11wyBL09X0m5R+ds5TnXbutqGVRxqbF0POzIolcF07vPRQ==",
+  "dgSpecHash": "Qx+JOngt268LjkzBUgTNGmxleM9OHnDWekLKlqPWFDg/kkTiyNDKwg4GRxmO89yoixrpG0C456hURVXOv8skXA==",
   "success": true,
-  "projectFilePath": "D:\\P.VSBase\\Complex number\\ClassLibraryCN\\ClassLibraryCN.csproj",
+  "projectFilePath": "C:\\Users\\horfa\\OneDrive\\Рабочий стол\\oop-lab1-halloweenja\\ClassLibraryCN\\ClassLibraryCN.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\horfa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\horfa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

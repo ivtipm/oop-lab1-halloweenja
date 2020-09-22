@@ -11,3 +11,29 @@ D:\P.VSBase\Complex number\Complex number\obj\Debug\Complex number.pdb
 D:\P.VSBase\Complex number\Complex number\bin\Debug\ClassLibraryCN.dll
 D:\P.VSBase\Complex number\Complex number\bin\Debug\ClassLibraryCN.pdb
 D:\P.VSBase\Complex number\Complex number\obj\Debug\Complex number.csproj.CopyComplete
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-1-master\Complex number\bin\Debug\Complex number.exe.config
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-1-master\Complex number\bin\Debug\Complex number.exe
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-1-master\Complex number\bin\Debug\Complex number.pdb
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-1-master\Complex number\bin\Debug\ClassLibraryCN.dll
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-1-master\Complex number\bin\Debug\ClassLibraryCN.pdb
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-1-master\Complex number\obj\Debug\Complex number.csprojAssemblyReference.cache
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-1-master\Complex number\obj\Debug\Complex_number.Form1.resources
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-1-master\Complex number\obj\Debug\Complex_number.Properties.Resources.resources
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-1-master\Complex number\obj\Debug\Complex number.csproj.GenerateResource.cache
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-1-master\Complex number\obj\Debug\Complex number.csproj.CoreCompileInputs.cache
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-1-master\Complex number\obj\Debug\Complex number.csproj.CopyComplete
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-1-master\Complex number\obj\Debug\Complex number.exe
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-1-master\Complex number\obj\Debug\Complex number.pdb
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-1\Complex number\bin\Debug\Complex number.exe.config
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-1\Complex number\bin\Debug\Complex number.exe
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-1\Complex number\bin\Debug\Complex number.pdb
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-1\Complex number\bin\Debug\ClassLibraryCN.dll
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-1\Complex number\bin\Debug\ClassLibraryCN.pdb
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-1\Complex number\obj\Debug\Complex number.csprojAssemblyReference.cache
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-1\Complex number\obj\Debug\Complex_number.Form1.resources
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-1\Complex number\obj\Debug\Complex_number.Properties.Resources.resources
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-1\Complex number\obj\Debug\Complex number.csproj.GenerateResource.cache
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-1\Complex number\obj\Debug\Complex number.csproj.CoreCompileInputs.cache
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-1\Complex number\obj\Debug\Complex number.csproj.CopyComplete
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-1\Complex number\obj\Debug\Complex number.exe
+C:\Users\horfa\OneDrive\Рабочий стол\Lab-1\Complex number\obj\Debug\Complex number.pdb

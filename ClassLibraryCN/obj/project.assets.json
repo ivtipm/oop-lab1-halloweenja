@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\P.VSBase\\Complex number\\ClassLibraryCN\\ClassLibraryCN.csproj",
+      "projectUniqueName": "C:\\Users\\horfa\\OneDrive\\Рабочий стол\\oop-lab1-halloweenja\\ClassLibraryCN\\ClassLibraryCN.csproj",
       "projectName": "ClassLibraryCN",
-      "projectPath": "D:\\P.VSBase\\Complex number\\ClassLibraryCN\\ClassLibraryCN.csproj",
+      "projectPath": "C:\\Users\\horfa\\OneDrive\\Рабочий стол\\oop-lab1-halloweenja\\ClassLibraryCN\\ClassLibraryCN.csproj",
       "packagesPath": "C:\\Users\\horfa\\.nuget\\packages\\",
-      "outputPath": "D:\\P.VSBase\\Complex number\\ClassLibraryCN\\obj\\",
+      "outputPath": "C:\\Users\\horfa\\OneDrive\\Рабочий стол\\oop-lab1-halloweenja\\ClassLibraryCN\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\horfa\\AppData\\Roaming\\NuGet\\NuGet.Config",

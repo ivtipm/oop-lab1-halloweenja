@@ -205,7 +205,7 @@
             this.buttonStart.Font = new System.Drawing.Font("Georgia", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.buttonStart.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(123)))), ((int)(((byte)(98)))), ((int)(((byte)(227)))));
             this.buttonStart.Location = new System.Drawing.Point(103, 167);
-            this.buttonStart.Margin = new System.Windows.Forms.Padding(4);
+            this.buttonStart.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.buttonStart.Name = "buttonStart";
             this.buttonStart.Size = new System.Drawing.Size(161, 39);
             this.buttonStart.TabIndex = 52;
@@ -228,7 +228,7 @@
             "          abs",
             "          arg"});
             this.comboBox.Location = new System.Drawing.Point(213, 82);
-            this.comboBox.Margin = new System.Windows.Forms.Padding(4);
+            this.comboBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.comboBox.Name = "comboBox";
             this.comboBox.Size = new System.Drawing.Size(113, 26);
             this.comboBox.TabIndex = 51;
